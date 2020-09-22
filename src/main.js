@@ -1,2 +1,3 @@
+require('babel-runtime/regenerator');
 require('./main.css');
-console.log('asd');
+require('./index.html');
